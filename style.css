@@ -237,7 +237,7 @@ a {
 }
 /*---section-hero---*/
 .hero-foto {
-  /* width: 1600px; */
+  max-width: 1600px;
   background-repeat: no-repeat;
   background-size: 100px, cover;
   height: 600px;
